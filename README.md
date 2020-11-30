@@ -1,4 +1,4 @@
-# CSharp Interpreted Language on Browser
+# C Sharp Interpreted Language on Browser
 
 This is a personal project I created with the goal of using a browser to run C# console applications.
 
